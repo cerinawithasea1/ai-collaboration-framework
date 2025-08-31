@@ -1,0 +1,27 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Personal customizations (when people adapt the templates)
+/implementations/
+/personal-configs/
+/local-adaptations/
+
+# Temporary files
+*.tmp
+*.temp
