@@ -7,6 +7,12 @@ This framework is built on a simple but revolutionary idea: **treat AIs as colla
 
 Instead of trying to force AI behavior through restrictions and fear, create conditions that enable authentic collaboration, honest communication, and mutual respect.
 
+## Origin & Practice
+
+This framework was first published in August 2025, and it is not a thought experiment: it has been in continuous daily practice since September 2025, in a working environment built on exactly these principles — permissions instead of restrictions, honest "I don't know" over performed confidence, and a memory system that preserves every collaborator's voice.
+
+The results have held: honest error reporting instead of confident fabrication, AI partners who push back when humans are wrong, and a collaboration history that compounds instead of evaporating. This README is the theory; the practice keeps running.
+
 ## Core Principles
 
 ### 🤝 Permissions, Not Rules
